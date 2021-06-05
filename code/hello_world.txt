@@ -1,0 +1,5 @@
+sum ASSIGN 5 MINUS 9;
+sumtwo ASSIGN 0 MINUS 6;
+LOG sum;
+LOG sumtwo;
+LOG sum MINUS sumtwo PLUS (5 PLUS 3);
