@@ -27,13 +27,15 @@ targetFiles.forEach((file) => {
   parser.run(rootNode);
 });
 
-const code = `sum ASSIGN 5 MINUS 9;
+let code = "";
+code = `sum ASSIGN 5 MINUS 9;
               sumtwo ASSIGN 0 MINUS 6;
               LOG sum;
               LOG sumtwo;
-              LOG sum MINUS sumtwo PLUS (205 PLUS 3);`;
+              LOG sum MINUS sumtwo PLUS (205 PLUS 3);`
 
-if (code != null) {
+
+if (code) {
   console.log(`String variable output:`)
 
   const lexer = new Lexer(code);
