@@ -28,3 +28,11 @@ How to run:
 5. every time you save index.ts file - it will compile the code
 
 And the last thing - this project was created thanks to a great course from a very smart teacher. I alone wouldn't have enough time to read about all the things important for this project in the nearest future.
+
+
+https://user-images.githubusercontent.com/76588711/120903870-11e40300-c649-11eb-83a3-ce287ac8964a.mp4
+
+
+https://user-images.githubusercontent.com/76588711/120903874-245e3c80-c649-11eb-9647-501e87901680.mp4
+
+
