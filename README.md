@@ -21,7 +21,7 @@ npm (i have version 6)
 
 How to run:
 
-1. install git repo and ope it
+1. install git repo and open it
 2. run "npm install" in project folder to install all node modules
 3. run "npm start" in project folder to start index.ts file with nodemon
 4. write code in a txt file in code folder or in string variable (there is example code already)
