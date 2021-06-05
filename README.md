@@ -27,4 +27,4 @@ How to run:
 4. write code in a txt file in code folder or in string variable (there is example code already)
 5. every time you save index.ts file - it will compile the code
 
-And the last thing - this project was created thanks to a great course from a very smart teacher. I alone wouldn't have enough time to read about all the things important for this project alone in the nearest future.
+And the last thing - this project was created thanks to a great course from a very smart teacher. I alone wouldn't have enough time to read about all the things important for this project in the nearest future.
