@@ -4,14 +4,23 @@ Right now this language can create variables, assign values to variables, add an
 Commands (more about token types in TokenType.ts):
 
 NUMBER: 0-9 - numbers
+
 VARIABLE: [a-z] - lowercase letters
+
 SEMICOLON: ; - every comand should end with a semicolon
+
 ASSIGN: write ASSIGN instead of =
+
 LOG: write LOG instead of console.log / print / printf
+
 PLUS: write PLUS instead of +
+
 MINUS: write MINUS instead of -
+
 LPAR: just a normal (
+
 RPAR: just a normal )
+
 
 You can write code in a string variable in index.ts (variable name is "code") or in .txt files in folder "code". Files from the code folder will be executed first and than the string variable.
 
